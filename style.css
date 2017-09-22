@@ -1,0 +1,11 @@
+body {
+	front-size: 2em;
+	front-family: 'Open Sans',sans-serif;
+}
+.rubrik {
+	color: grey;
+}
+#content{
+	margin: 0 auto;
+	width: 80%;
+}
